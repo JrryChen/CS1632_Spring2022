@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GoatGoatCar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GoatGoatCar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
